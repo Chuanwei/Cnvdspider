@@ -10,7 +10,6 @@ def adminList():
     @函数方法:返回发送管理员的邮箱地址
     :return: [] type list
     """
-    # return ["2558925187@qq.com", "463266963@qq.com"]
     return ["admin@lioder.com"]
 
 def userlist():
